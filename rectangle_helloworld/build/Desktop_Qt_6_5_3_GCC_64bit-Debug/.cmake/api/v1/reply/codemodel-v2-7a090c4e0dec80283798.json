@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-edb5c5d6f4e682f68967.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rectangle_helloworld",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-0a5c6e337c7126666304.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-f36859769b6d4714fd53.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-9222198e30f008d0d1b7.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-f5f94013dd75093f8832.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprectangle_helloworld::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprectangle_helloworld-Debug-ed8ac8632617e39c33ee.json",
+					"name" : "apprectangle_helloworld",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprectangle_helloworld_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprectangle_helloworld_autogen-Debug-2b2a475da99c5e439131.json",
+					"name" : "apprectangle_helloworld_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprectangle_helloworld_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprectangle_helloworld_autogen_timestamp_deps-Debug-cdf394c5624c081c3f5f.json",
+					"name" : "apprectangle_helloworld_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprectangle_helloworld_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprectangle_helloworld_qmlimportscan-Debug-cb7c4f4d324fa7289371.json",
+					"name" : "apprectangle_helloworld_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprectangle_helloworld_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprectangle_helloworld_qmllint-Debug-34c692f403bd7ce4a73e.json",
+					"name" : "apprectangle_helloworld_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprectangle_helloworld_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprectangle_helloworld_qmllint_json-Debug-7c1f1f72b20d86e9bed8.json",
+					"name" : "apprectangle_helloworld_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprectangle_helloworld_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprectangle_helloworld_qmllint_module-Debug-e155ede88ee3c6df05c6.json",
+					"name" : "apprectangle_helloworld_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprectangle_helloworld_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprectangle_helloworld_qmltyperegistration-Debug-fb9590d2246a799081b9.json",
+					"name" : "apprectangle_helloworld_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apprectangle_helloworld_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apprectangle_helloworld_tooling-Debug-2d98dd710d83298d20d4.json",
+					"name" : "apprectangle_helloworld_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/awadin/rectangle_helloworld/build/Desktop_Qt_6_5_3_GCC_64bit-Debug",
+		"source" : "/home/awadin/rectangle_helloworld"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

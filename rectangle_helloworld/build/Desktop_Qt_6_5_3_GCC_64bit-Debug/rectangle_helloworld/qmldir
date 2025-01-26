@@ -1,0 +1,5 @@
+module rectangle_helloworld
+typeinfo apprectangle_helloworld.qmltypes
+prefer :/qt/qml/rectangle_helloworld/
+Main 1.0 Main.qml
+

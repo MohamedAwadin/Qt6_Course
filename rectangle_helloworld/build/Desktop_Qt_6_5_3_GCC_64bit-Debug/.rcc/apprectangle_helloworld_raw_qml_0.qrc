@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/rectangle_helloworld/">
+    <file alias="Main.qml">/home/awadin/rectangle_helloworld/Main.qml</file>
+  </qresource>
+</RCC>
+
