@@ -1,0 +1,14 @@
+-rootPath
+/media/awadin/extra/ITI/LAB2_ButtonsandImages
+-cmake-output
+-output-file
+/media/awadin/extra/ITI/LAB2_ButtonsandImages/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appLAB2_ButtonsandImages.cmake
+-importPath
+/media/awadin/extra/ITI/LAB2_ButtonsandImages/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/LAB2_ButtonsandImages
+-importPath
+/media/awadin/extra/ITI/LAB2_ButtonsandImages/build/Desktop_Qt_6_5_3_GCC_64bit-Debug
+-importPath
+/media/awadin/extra/6.5.3/gcc_64/./qml
+-qrcFiles
+/media/awadin/extra/ITI/LAB2_ButtonsandImages/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.rcc/qmake_LAB2_ButtonsandImages.qrc
+/media/awadin/extra/ITI/LAB2_ButtonsandImages/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.rcc/appLAB2_ButtonsandImages_raw_qml_0.qrc

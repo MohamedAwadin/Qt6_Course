@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/LAB2_ButtonsandImages/">
+    <file alias="Main.qml">/media/awadin/extra/ITI/LAB2_ButtonsandImages/Main.qml</file>
+    <file alias="resource.qrc">/media/awadin/extra/ITI/LAB2_ButtonsandImages/resource.qrc</file>
+  </qresource>
+</RCC>
+

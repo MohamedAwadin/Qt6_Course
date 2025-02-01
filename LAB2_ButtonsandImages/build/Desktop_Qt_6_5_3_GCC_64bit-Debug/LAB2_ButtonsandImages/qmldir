@@ -1,0 +1,5 @@
+module LAB2_ButtonsandImages
+typeinfo appLAB2_ButtonsandImages.qmltypes
+prefer :/qt/qml/LAB2_ButtonsandImages/
+Main 1.0 Main.qml
+

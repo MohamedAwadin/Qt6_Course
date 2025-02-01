@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/LAB2_ButtonsandImages">
+    <file alias="qmldir">/media/awadin/extra/ITI/LAB2_ButtonsandImages/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/LAB2_ButtonsandImages/qmldir</file>
+  </qresource>
+</RCC>
+
