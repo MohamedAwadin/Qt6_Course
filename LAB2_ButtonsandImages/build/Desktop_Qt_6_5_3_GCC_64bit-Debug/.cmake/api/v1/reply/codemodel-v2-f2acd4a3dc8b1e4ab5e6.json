@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5916276ae298cf52e4dd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LAB2_ButtonsandImages",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-32d3a04044fe3ccdd4fe.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-98bb9d1a13bae8d05a58.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-e77e91ffa95f493507c2.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-9c7a1f1697c368e5e208.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLAB2_ButtonsandImages::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLAB2_ButtonsandImages-Debug-ae05478a0841fa29cf53.json",
+					"name" : "appLAB2_ButtonsandImages",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLAB2_ButtonsandImages_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLAB2_ButtonsandImages_autogen-Debug-2186286b827959e1440a.json",
+					"name" : "appLAB2_ButtonsandImages_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLAB2_ButtonsandImages_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLAB2_ButtonsandImages_autogen_timestamp_deps-Debug-755b4c5428acc3dcbd52.json",
+					"name" : "appLAB2_ButtonsandImages_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLAB2_ButtonsandImages_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLAB2_ButtonsandImages_qmlimportscan-Debug-254d5a08442922ce61c3.json",
+					"name" : "appLAB2_ButtonsandImages_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLAB2_ButtonsandImages_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLAB2_ButtonsandImages_qmllint-Debug-d1879d9d7d572b3b7cd4.json",
+					"name" : "appLAB2_ButtonsandImages_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLAB2_ButtonsandImages_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLAB2_ButtonsandImages_qmllint_json-Debug-714b7c152ef58ca7f06b.json",
+					"name" : "appLAB2_ButtonsandImages_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLAB2_ButtonsandImages_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLAB2_ButtonsandImages_qmllint_module-Debug-b63166a35e6da8b1c73b.json",
+					"name" : "appLAB2_ButtonsandImages_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLAB2_ButtonsandImages_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLAB2_ButtonsandImages_qmltyperegistration-Debug-db7ad09ae814c1e47aab.json",
+					"name" : "appLAB2_ButtonsandImages_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appLAB2_ButtonsandImages_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appLAB2_ButtonsandImages_tooling-Debug-8425810b3154a49f124f.json",
+					"name" : "appLAB2_ButtonsandImages_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/media/awadin/extra/ITI/LAB2_ButtonsandImages/build/Desktop_Qt_6_5_3_GCC_64bit-Debug",
+		"source" : "/media/awadin/extra/ITI/LAB2_ButtonsandImages"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
