@@ -1,0 +1,152 @@
+{
+    "classes": [
+        {
+            "className": "CapsLockControl",
+            "methods": [
+                {
+                    "access": "public",
+                    "name": "toggleCapsLock",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "value",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "setBrightness",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "iconSource",
+                    "notify": "statusChanged",
+                    "read": "getIconSource",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "imageSource",
+                    "notify": "statusChanged",
+                    "read": "getImageSource",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "brightness",
+                    "notify": "brightnessChanged",
+                    "read": "getBrightness",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setBrightness"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "name": "cpuTemperature",
+                    "notify": "cpuTemperatureChanged",
+                    "read": "getCpuTemperature",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 4,
+                    "name": "batteryLevel",
+                    "notify": "batteryLevelChanged",
+                    "read": "getBatteryLevel",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "CapsLockControl",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "statusChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "brightnessChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "cpuTemperatureChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "batteryLevelChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "private",
+                    "name": "updateCapsLockStatus",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "name": "updateBrightness",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "name": "updateCpuTemperature",
+                    "returnType": "void"
+                },
+                {
+                    "access": "private",
+                    "name": "updateBatteryLevel",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "capslockcontrol.h",
+    "outputRevision": 68
+}

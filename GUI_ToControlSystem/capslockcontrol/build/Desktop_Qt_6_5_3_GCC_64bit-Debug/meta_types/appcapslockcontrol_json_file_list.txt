@@ -1,0 +1,1 @@
+/media/awadin/extra/ITI/capslockcontrol/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/appcapslockcontrol_autogen/include/../EWIEGA46WW/moc_capslockcontrol.cpp.json
