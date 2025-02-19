@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/capslockcontrol/">
+    <file alias="Main.qml">/media/awadin/extra/ITI/capslockcontrol/Main.qml</file>
+    <file alias="resource.qrc">/media/awadin/extra/ITI/capslockcontrol/resource.qrc</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,14 @@
+-rootPath
+/media/awadin/extra/ITI/capslockcontrol
+-cmake-output
+-output-file
+/media/awadin/extra/ITI/capslockcontrol/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appcapslockcontrol.cmake
+-importPath
+/media/awadin/extra/ITI/capslockcontrol/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/capslockcontrol
+-importPath
+/media/awadin/extra/ITI/capslockcontrol/build/Desktop_Qt_6_5_3_GCC_64bit-Debug
+-importPath
+/media/awadin/extra/6.5.3/gcc_64/./qml
+-qrcFiles
+/media/awadin/extra/ITI/capslockcontrol/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.rcc/qmake_capslockcontrol.qrc
+/media/awadin/extra/ITI/capslockcontrol/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.rcc/appcapslockcontrol_raw_qml_0.qrc

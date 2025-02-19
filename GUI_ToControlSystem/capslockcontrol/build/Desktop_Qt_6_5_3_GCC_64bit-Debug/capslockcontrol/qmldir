@@ -1,0 +1,5 @@
+module capslockcontrol
+typeinfo appcapslockcontrol.qmltypes
+prefer :/qt/qml/capslockcontrol/
+Main 1.0 Main.qml
+
